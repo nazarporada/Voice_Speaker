@@ -1,0 +1,3 @@
+PyAudio==0.2.13
+speechbrain==0.5.13
+SpeechRecognition==3.9.0
